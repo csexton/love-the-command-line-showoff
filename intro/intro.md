@@ -1,0 +1,51 @@
+!SLIDE center no-margin
+![How I learned to Stop Worrying and Love the Command Line](war-room-vector.jpg)
+
+!SLIDE
+# How I Learned to Stop Worrying and Love the Command Line
+
+!SLIDE
+# The Command Line is Awesome
+
+!SLIDE
+# Really Awesome
+
+!SLIDE
+# You Just Need a Few Building Blocks
+
+!SLIDE
+# Couple of definitions
+* rc files or .dotfiles
+* Environment Variables
+* Standard Input/Output/Error
+
+!SLIDE bullets
+# A Good Unix Command Should
+* Read from Standard In
+* Write to Standard Out
+* Take Parameters
+* Return Status Code
+
+!SLIDE bullets
+# Commands Can
+### (if they have good reason)
+* Read Enviroment Varables
+* Have a Config File
+* Read and Write Files
+
+!SLIDE
+# All the input/output is text
+<br>
+
+!SLIDE
+# All the input/output is text
+&#42; Mostly
+
+!SLIDE
+# All the input/output is text
+This is huge
+
+!SLIDE
+# Everything is text
+### Once you learn how to do something you can use it anywhere there is text
+

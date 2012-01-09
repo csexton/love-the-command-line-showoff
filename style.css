@@ -32,3 +32,6 @@ p.filename {
 .no-margin > p {
   margin: 0;
 }
+.bullets > ul > li {
+text-align: left;
+}

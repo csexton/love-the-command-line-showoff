@@ -1,26 +1,6 @@
 !SLIDE
-
 # Tips and Tricks
-
 man builtin
-
-Use & to send a command into the background
-
-
-
-
-!SLIDE commandline
-# Conditional Commands
-    $ rake test && growlnotify -m "yay"
-
-!SLIDE commandline
-# Conditional Commands
-    $ rake test && growlnotify -m "yay" || growlnotify -m "boo!"
-
-
-!SLIDE
-# Convert input to arguments
-xargs
 
 
 !SLIDE bullets
@@ -46,3 +26,8 @@ xargs
 # Command within a command
 * `backticks`
 * $(moneyfunction)
+
+!SLIDE
+# Convert input to arguments
+xargs
+

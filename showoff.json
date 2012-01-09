@@ -1,4 +1,10 @@
 {
   "name": "How I learned to stop worring and love the command line",
-  "sections": [ {"section":"intro"}, {"section":"tricks"} ]
+  "sections": [ {"section":"intro"},
+                {"section":"control"},
+                {"section":"nav"},
+                {"section":"multi"},
+                {"section":"help"},
+                {"section":"tricks"},
+                {"section":"end"} ]
 }
