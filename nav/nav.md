@@ -7,14 +7,18 @@
 
 !SLIDE
 # LEARN ONE
+<br>
+!SLIDE
+# LEARN ONE
+Only one of is the right choice
 
 !SLIDE bullets incremental
 # I use emacs mode
 * Default
 * libreadline
-* Matches cocoa keybindings
-* I can use `^x^e` or `fc`
-* I also have these keybindings in vim's insert mode
+* Matches Cocoa Keybindings
+* Vim integration via `^x^e` or `fc`
+* Same keybindings in vim's insert mode*
 
 !SLIDE bullets incremental
 # Couple of examples

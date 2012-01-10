@@ -31,3 +31,6 @@ man builtin
 # Convert input to arguments
 xargs
 
+!SLIDE
+# Remap CAPSLOCK to Control
+(only smart people do this)

@@ -13,7 +13,11 @@
 !SLIDE
 # You Just Need a Few Building Blocks
 
-!SLIDE
+!SLIDE bullets
+# `as·sume /əˈso͞om/`
+Suppose to be the case, without proof.
+
+!SLIDE bullets
 # Couple of definitions
 * rc files or .dotfiles
 * Environment Variables
@@ -28,7 +32,7 @@
 
 !SLIDE bullets
 # Commands Can
-### (if they have good reason)
+### (but only if they have good reason)
 * Read Enviroment Varables
 * Have a Config File
 * Read and Write Files
@@ -46,6 +50,6 @@
 This is huge
 
 !SLIDE
-# Everything is text
+# Everything is Text
 ### Once you learn how to do something you can use it anywhere there is text
 
