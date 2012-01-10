@@ -17,20 +17,23 @@ man builtin
 * ^remove
 
 
-!SLIDE
+!SLIDE bullets
 # Editing on the commandline
 * Control-X Control-E
 * `fc`
 
-!SLIDE
+!SLIDE bullets
 # Command within a command
 * `backticks`
 * $(moneyfunction)
 
-!SLIDE
+!SLIDE commandline
 # Convert input to arguments
 xargs
 
-!SLIDE
+    $ find . | xargs grep 'radio codes'
+
+
+!SLIDE smaller
 # Remap CAPSLOCK to Control
 (only smart people do this)

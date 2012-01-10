@@ -35,3 +35,7 @@ p.filename {
 .bullets > ul > li {
 text-align: left;
 }
+
+.note {
+  color: white;
+}

@@ -3,11 +3,11 @@
   "sections": [ {"section":"intro"},
                 {"section":"image-cant-fight"},
                 {"section":"control"},
-                {"section":"image-slip-up"},
                 {"section":"nav"},
-                {"section":"multi"},
-                {"section":"image-survival-kit"},
                 {"section":"help"},
+                {"section":"image-survival-kit"},
+                {"section":"multi"},
+                {"section":"image-slip-up"},
                 {"section":"tricks"},
                 {"section":"end"} ]
 }

@@ -1,7 +1,8 @@
-!SLIDE bullets incremental
+!SLIDE bullets
 # Learning More
-* man
+* `man`
+* `info`
 * Usage
-* -h/--help
+* `-h/--help`
 * Mashing the tab key
 
