@@ -46,6 +46,7 @@ Take the output of the previous command and pass it into the next
     echo "this" > file.txt
     echo "this" >> file.txt
     rake routes > routes.txt
+    ls badname 2> error.txt
 
 !SLIDE bullets
 # The Tools
