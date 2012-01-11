@@ -42,8 +42,19 @@ Take the output of the previous command and pass it into the next
 !SLIDE
 
 # Redirection
-echo "this" > file.txt
-echo "this" >> file.txt
-rake routes > routes.txt
+
+    echo "this" > file.txt
+    echo "this" >> file.txt
+    rake routes > routes.txt
+
+!SLIDE bullets
+# The Tools
+* `cat` Print out files
+* `sort` Sort lines of text
+* `uniq` Find duplicate lines
+* `wc` Count stuff - lines, words, and bytes
+* `grep` Search with regex
+* `head` Output the first part of a file.
+* `tail` Output the last part of a file.
 
 

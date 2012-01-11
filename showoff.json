@@ -1,8 +1,8 @@
 {
   "name": "How I learned to stop worring and love the command line",
   "sections": [ {"section":"intro"},
-                {"section":"image-cant-fight"},
                 {"section":"control"},
+                {"section":"image-cant-fight"},
                 {"section":"nav"},
                 {"section":"help"},
                 {"section":"image-survival-kit"},
