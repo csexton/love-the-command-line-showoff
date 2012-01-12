@@ -25,5 +25,6 @@ Only one of is the right choice
 * `Control-A/-E` Jump to the beginning or end
 * `Control-K`  Delete from cursor to end
 * `Control-U`  Delete line
+* `Control-W`  Delete back a word
 * `Control-N/-P`  Next/Previous Line
 
