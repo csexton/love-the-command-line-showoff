@@ -1,4 +1,7 @@
 !SLIDE center no-margin
+<div style="text-shadow: 2px 2px 5px black; position: absolute; color: #485251; text-align:left; float: left; width: 50%; font-size: 12pt; padding:40px">
+Use ← and → to Navigate
+</div>
 ![How I learned to Stop Worrying and Love the Command Line](war-room-vector.jpg)
 
 !SLIDE
